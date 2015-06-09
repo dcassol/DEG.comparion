@@ -1,0 +1,21 @@
+# Project ID: RNA­Seq data set fro (Jiao & Meyerowitz 2010) #NCBI Short Read Archive SRA023501and GEO GSE23777
+# The following line(s) allow to specify the contrasts needed for comparative analyses, such as DEG identification. All possible comparisons can be sp$
+# <CMP> CMPset1: AP1.4-AP1.67, AP3.4-AP3.67, AG.4-AG.67, AP1.4-AP3.4, AP1.4-AG.4, AP3.4-AG.4, AP1.67-AP3.67, AP1.67-AG.67, AP3.67-AG.67 
+# <CMP> CMPset2: ALL
+FileName	SampleName	Factor	SampleLong	Experiment 	Date
+./data/SRR064149.fastq	AP1.4A	AP1.4	AP1.stage4.R1	1	7-April-2015
+./data/SRR064150.fastq	AP1.4B	AP1.4	AP1.stage4.R2	1	7-April-2015
+./data/SRR064151.fastq	AP1.67A	AP1.67	AP1.stage67.R1	1	7-April-2015
+./data/SRR064153.fastq	AP1.67B	AP1.67	AP1.stage67.R2	1	7-April-2015
+./data/SRR064154.fastq	AP3.4A	AP3.4	AP3.stage4.R1	1	7-April-2015
+./data/SRR064155.fastq	AP3.4B	AP3.4	AP3.stage4.R2	1	7-April-2015
+./data/SRR064158.fastq	AP3.67A	AP3.67	AP3.stage67.R1	1	7-April-2015
+./data/SRR064159.fastq	AP3.67B	AP3.67	AP3.stage67.R2	1	7-April-2015
+./data/SRR064160.fastq	AG.67A	AG.67	AG.stage67.R1	1	7-April-2015
+./data/SRR064161.fastq	AG.67B	AG.67	AG.stage67.R2	1	7-April-2015
+./data/SRR064162.fastq	AG.4A	AG.4	AG.stage4.R1	1	7-April-2015
+./data/SRR064163.fastq	AG.4B	AG.4	AG.stage4.R2	1	7-April-2015
+./data/SRR064164.fastq	FTC.4A	FTC.4	F.TC.stage4.R1	1	7-April-2015
+./data/SRR064165.fastq	FTC.4B	FTC.4	F.TC.stage4.R2	1	7-April-2015
+./data/SRR064166.fastq	FTL.4A	FTL.4	F.TL.stage4.R1	1	7-April-2015
+./data/SRR064167.fastq	FTL.4B	FTL.4	F.TL.stage4.R2	1	7-April-2015

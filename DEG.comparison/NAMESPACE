@@ -1,0 +1,9 @@
+## IMPORTS
+import(NBPSeq, baySeq, systemPipeR, ggplot2)
+
+## Functions
+# exportPattern("^[[:alpha:]]+")
+export(
+     ## Utilities
+    "filterDEG_FDR", "filterDEG_logFC", "filterDEGnew", "panel.cor", "run_BaySeq", "run_NBPSeq_glm", "run_NBPSeq_nbp", "run_RPKM", "run_TSPM", "TSPM"
+) 

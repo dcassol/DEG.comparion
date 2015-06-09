@@ -1,0 +1,22 @@
+DEG,Package,Number of significantly differentially expressed 
+UporDown,RPKM,12300
+Up,RPKM,8447
+Down,RPKM,8477
+UporDown,edgeR,7565
+Up,edgeR,4511
+Down,edgeR,4206
+UporDown,DESeq2,6539
+Up,DESeq2,3791
+Down,DESeq2,3577
+UporDown,BaySeq,2983
+Up,BaySeq,0
+Down,BaySeq,0
+UporDown,NBP.glm,7069
+Up,NBP.glm,3750
+Down,NBP.glm,4485
+UporDown,NBP.nbp,5366
+Up,NBP.nbp,2945
+Down,NBP.nbp,3252
+UporDown,TSPM,3430
+Up,TSPM,1662
+Down,TSPM,2310
