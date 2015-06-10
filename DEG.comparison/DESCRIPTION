@@ -1,13 +1,14 @@
 Package: DEG.comparison
 Type: Package
-Title: What the package does (short line)
+Title: DEG.comparison: A comparison of methods for DEG analysis of
+        RNA-seq data
 Version: 1.0
 Date: 2015-06-05
 Author: Daniela Cassol
 Maintainer: Daniela Cassol <danicassol@gmail.com>
-Description: More about what it does (maybe more than one line)
-Depends: NBPSeq, baySeq, systemPipeR, ggplot2
-Imports: NBPSeq, baySeq, systemPipeR, ggplot2
+Description: A comparison of methods for DEG analysis of RNA-seq data
+Depends: NBPSeq, baySeq, systemPipeR, ggplot2, ROCR, ape
+Imports: NBPSeq, baySeq, systemPipeR, ggplot2, ROCR, ape
 URL: https://github.com/dcassol/DEG.comparison
 License: What license is it under?
-Packaged: 2015-06-05 23:40:42 UTC; cassol
+Packaged: 2015-06-10 21:50:14 UTC; cassol
